@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GridLesson</string>
+    <string name="rightButton">RIGHT</string>
+    <string name="leftButton">LEFT</string>
+    <string name="bottomButton">BOTTOM</string>
+    <string name="centerButton">CENTER</string>
+
+</resources>
